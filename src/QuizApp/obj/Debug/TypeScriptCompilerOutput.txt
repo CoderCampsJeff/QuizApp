@@ -1,0 +1,2 @@
+C:\projects\2017-1-17\QuizApp\src\QuizApp\wwwroot\app.js
+C:\projects\2017-1-17\QuizApp\src\QuizApp\wwwroot\app.js.map
